@@ -10,7 +10,7 @@
 - 执行`hexo g`命令耗时较长
 - 如果本地博客目录下有20个md文件，可能还要20个文件夹，这样管理起来也很麻烦。如下图
 
-![image-20220517201208638](https://cdn.jsdelivr.net/gh/yanglinqi107/images/res/202205191756005.png)
+![image-20220517201208638](https://gitee.com/yanglinqi107/Images/raw/master/res/202205191756005.png)
 
 
 
@@ -77,9 +77,7 @@
 
 `https://cdn.jsdelivr.net/gh/yanglinqi107/images/img/headpic.png`
 
-![image-20220519163854781](https://cdn.jsdelivr.net/gh/yanglinqi107/images/res/202205191756010.png)
-
-![image-20220519172310501](https://cdn.jsdelivr.net/gh/yanglinqi107/images/res/image-20220519172310501.png)
+![image-20220519172310501](https://gitee.com/yanglinqi107/Images/raw/master/res/image-20220519172310501.png)
 
 
 
